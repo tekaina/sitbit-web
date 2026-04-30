@@ -1,0 +1,4 @@
+# GitHub Pages config
+# Ensures .well-known directory is included
+include:
+  - .well-known
